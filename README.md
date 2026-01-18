@@ -10,7 +10,7 @@ This dataset addresses the critical gap in existing remote sensing resources, wh
 ## Key Features
 
 - High-Resolution Coverage: Contains approximately 100 km² of very-high-resolution remote sensing imagery
-- Geographic Scope: Covers 125 urban villages across Shenzhen and Guangzhou, China
+- Geographic Scope: Covers 126 urban villages across Shenzhen and Guangzhou, China
 - Detailed Annotations: Manually annotated building and road masks with fine-grained labeling
 - Unique Focus: Specifically targets the challenging scenario of dense urban informal settlements
 - Benchmark Utility: Provides a robust benchmark for evaluating advanced deep learning methods in fine-grained urban mapping
